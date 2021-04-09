@@ -42,6 +42,7 @@
 			<div class="py-4">
 				<h5 class="light">Apaixonado por programação.</h5>
 				<h5 class="light pt-2">Movido por desafios.</h5>
+				<h5 class="light pt-2">Porfifólio sendo criado.</h5>
 			</div>
 		</div>
 		<social-media class="d-none d-md-flex d-lg-flex d-xl-flex"></social-media>
